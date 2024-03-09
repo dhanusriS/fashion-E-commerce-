@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <tile>Events</tile>
+
+      <link rel="icon" href="img/date.png">
+   </head>
+   <center>
+      <h1>upcoming Events 📅</h1>
+      <p>Don't miss any of your important events. Here are the imortant events you have registered for!</p>
+ </center>
+   <body>
+      <hr>
+
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt nemo explicabo hic aliquid commodi! Quis, ex enim. Cum, possimus tempore! Quasi laudantium dolorum fuga nesciunt vel perferendis quis porro magni similique, ipsum consequatur doloribus sequi totam unde nulla beatae nam voluptate accusamus optio voluptates eum, officia explicabo! Nesciunt assumenda suscipit rerum, voluptatum et quibusdam odit ad tenetur facere, incidunt iusto illo veritatis est dolorem veniam blanditiis laborum! In, neque itaque. Minima laboriosam a magnam maxime. Itaque recusandae adipisci illum molestiae est laudantium delectus enim pariatur excepturi alias ducimus aperiam corporis natus, in culpa ratione, nemo soluta ex. Dolor, laborum corporis?
+     </p>
+     <center>
+       <img src="img/event1.png">
+       <h1>Photo Gallery Event</h1>
+       <h2> Free Entry | Free Food | Pets are Not Allowed</h2>
+       <center>
+       <P>
+        The standard chunk of loren Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et melorum"by Cicero are also reproduced in their extra orginal form, accompanied by English version from the 1914 translation by H.Rackham.
+       </P>
+       </center>
+       <img src="img/event2.png">
+       <center>
+           <a href="https://www.myntra.com/shop/women">Fashion Store<a>
+           <h2>Free Entry | Free Food | Pets are Not Allowed </h2>
+           <p>
+               The standard chunk of loren Ipsum used since the 1500s is reproduced below for those inserted. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Circero are also reproduced in their exact original from, accompanied by english versions from the 1914 translation by H.Rackham.            </p>
+               <hr>
+           <h1>contact</h1>
+           <h2>+91 787483783743|eventcollab@gmail.com</h2>
+           <h3>9th street Avenue Park, Trichy.625620</h3>
+       </center>
+   </body>
+</html>
+      </body>
+
+</html>
+
